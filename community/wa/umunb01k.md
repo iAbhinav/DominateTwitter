@@ -13,7 +13,7 @@
 Lets #DominateTwitter together!
 
 ## How to join:
-- create a new tweet tagging @umunBeing
+- create a new tweet tagging [@umunBeing](https://x.com/umunbeing)
 - don’t forget to add #DominateTwitter
 - ask him a question
 - show your creativity by rephrasing the sample tweet
@@ -23,7 +23,7 @@ Lets #DominateTwitter together!
 - Once selected you'll get the invite link 🎉
 
 ### Sample Tweet:
-Hey @umunBeing how can I #DominateTwitter?
+Hey [@umunBeing](https://x.com/umunbeing) how can I `#DominateTwitter`?
 
 ## Eligibility:
 - min 200 posts on X
