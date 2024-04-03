@@ -1,3 +1,3 @@
 # Community Members
 
-[Abhinav Singhal](./umunbeing/)
+[Abhinav Singhal](./umunbeing/index.md)
