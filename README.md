@@ -1,3 +1,3 @@
 # DominateTwitter
 
-[draft](/drats/index.md)
+[draft](/drafts/index.md)
