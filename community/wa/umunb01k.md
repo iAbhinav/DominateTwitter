@@ -2,7 +2,7 @@
 
 ## About
 Are you a developer looking to grow your influence on Twitter? 
-We are a passionate group of developers who believe in sharing knowledge and using Twitter to make a name for ourselves in the tech community. 
+We are a passionate cohort of developers who believe in sharing knowledge and using Twitter to make a name for ourselves in the tech community. 
 
 We are big on karma and helping others grow 🚀
 
