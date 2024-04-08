@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+
+
+# Basic Site Settings
+locale                   : "en-US"
+title                    : "#DominateTwitter Club"
+title_separator          : "-"
+name                     : &name "Abhinav"
+description              : &description "personal description"
+url                      : https://iabhinav.github.io
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "dominatetwitter/iabhinav.github.io"
